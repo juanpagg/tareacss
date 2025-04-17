@@ -26,10 +26,19 @@
     color: #f775b4;
   }
 
-  section.team div.sectioner-header.text-center.sectioner-header.text-center {
+  section.team div.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header.sectioner-header {
     border: 1px solid #8D1EFB;
   }
-  section.team .team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name {
+  
+  section.team div.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail.team-detail h4 {
     color: #2E74A7;
+  }
+  
+  section.testimonial div.test-text span.title.title.title.title.title.title.title.title.title.title.title.title.title.title.title.title.title.title span {
+    text-decoration: underline;
+  }
+  
+  footer.footer-copy.footer-copy.footer-copy.footer-copy.footer-copy a {
+    color: #844E41;
   }
   
