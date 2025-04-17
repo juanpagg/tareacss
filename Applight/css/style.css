@@ -1,0 +1,35 @@
+#navbarSupportedContent ul li a:hover {
+    text-decoration: underline;
+    text-decoration-color: #5f0099;
+  }
+/* Cambiar el grosor del h2 en el banner */
+.banner .banner-text h2.white {
+    font-weight: 200;
+  }
+  
+  /* Cambiar el color del enlace 'W3 Template' a rojo */
+  .banner .banner-text h6 a.weblink {
+    color: red;
+  }
+  
+  /* Cambiar el color del h3 en la sección de Features a #8D1EFB */
+  html body section.feature.section-padding[data-scroll-index='2'] > .container > .row > .col-md-12 > .sectioner-header.text-center > h3:first-child {
+    color: #8D1EFB;
+  }
+  .feature.section-padding > .container > .row > .col-md-12 > .section-content.text-center > .row .col-md-4.col-sm-12 > .media.single-feature.wow.fadeInUp .media-body.text-right.media-right-margin > h5 {
+    color: #5EE25A;
+  }
+  html body section.feature.section-padding[data-scroll-index='2'] > .container > .row > .col-md-12 > .section-content.text-center > .row .col-md-4.col-sm-12 > .media.single-feature.wow.fadeInUp .media-body.text-left > h5 {
+    color: #5EE25A;
+  }
+  html body .feature.section-padding > .container > .row .col-md-4.col-sm-12 > .media.single-feature.wow.fadeInUp .media-right.icon-border > i::before {
+    color: #f775b4;
+  }
+
+  section.team div.sectioner-header.text-center.sectioner-header.text-center {
+    border: 1px solid #8D1EFB;
+  }
+  section.team .team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name.team-member-name {
+    color: #2E74A7;
+  }
+  
