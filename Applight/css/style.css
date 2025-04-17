@@ -22,7 +22,7 @@
   html body section.feature.section-padding[data-scroll-index='2'] > .container > .row > .col-md-12 > .section-content.text-center > .row .col-md-4.col-sm-12 > .media.single-feature.wow.fadeInUp .media-body.text-left > h5 {
     color: #5EE25A;
   }
-  html body .feature.section-padding > .container > .row .col-md-4.col-sm-12 > .media.single-feature.wow.fadeInUp .media-right.icon-border > i::before {
+  .feature.section-padding .container .row .media-right.icon-border .fa::before {
     color: #f775b4;
   }
 
